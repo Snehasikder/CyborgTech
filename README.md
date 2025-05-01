@@ -1,6 +1,5 @@
 # 🤖CyborgTech — Cyborg Body Part E-commerce Site 
-![CYBORGTECH](https://github.com/Snehasikder/CyborgTech/blob/main/image/logo.jpeg)
-<br>
+
 Welcome to **CyborgTech**, your futuristic destination for buying cutting-edge cybernetic body parts. This is a simple front-end-only web project that simulates the structure and functionality of a cyborg parts store using only HTML, CSS, and JavaScript.
 ---
 

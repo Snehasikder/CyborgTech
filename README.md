@@ -13,7 +13,7 @@ Welcome to **CyborgTech**, your futuristic destination for buying cutting-edge c
 - 🏠 **Dashboard**: Shows product categories, subcategories, bestseller items, user reviews, and the ability to post a review
 - 🛒 **Cart Page**:
   - Left: User details (name, address, contact number,delivery location, full address)
- - Right: Billing summary with delivery cost (dynamic based on location), 15% tax on total product price, and a discount option — entering promo code 'CYBORGTECH2025' applies a 10% discount.
+  - Right: Billing summary with delivery cost (dynamic based on location), 15% tax on total product price, and a discount option — entering promo code 'CYBORGTECH2025' applies a 10% discount.
 - 💬 **User Reviews**: View and submit reviews for items
 - ⚡ **Neon Flickering Logo** with entry animations on the index page
 - 📦 **Product Pages**: Individual pages for items like `cyber-arm`, `phantom-eyes`, `adrenalift-muscles`, etc.

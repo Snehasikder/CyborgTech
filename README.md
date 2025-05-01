@@ -3,6 +3,11 @@
 Welcome to **CyborgTech**, your futuristic destination for buying cutting-edge cybernetic body parts. This is a simple front-end-only web project that simulates the structure and functionality of a cyborg parts store using only HTML, CSS, and JavaScript.
 ---
 
+
+
+
+
+---
 ## 🌐 [Live Demo](https://snehasikder.github.io/CyborgTech/) — You can clone and run locally for now.
 
 ---
@@ -84,7 +89,13 @@ CyborgTech/
 - JavaScript (Vanilla)
 
 ---
+## 🧠 System Architecture
 
+This diagram illustrates the structure and interactions of the app components:
+
+![System Architecture](https://github.com/Snehasikder/CyborgTech/blob/main/image/diagram.png)
+
+---
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).

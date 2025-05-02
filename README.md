@@ -78,7 +78,7 @@ CyborgTech/
 - `login.html` ↔ `signup.html` → on success → `dashboard.html`
 - `dashboard.html` → product pages → add to cart
 - `dashboard.html` → `cart.html` via top-right icon
-- `cart.html` → displays added items, user info & dummy delivery cost
+- `cart.html` → displays added items, user info &  delivery cost
 
 ---
 

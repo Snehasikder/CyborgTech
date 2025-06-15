@@ -3,7 +3,7 @@
 Welcome to **CyborgTech**, your futuristic destination for buying cutting-edge cybernetic body parts. This is a simple front-end-only web project that simulates the structure and functionality of a cyborg parts store using only HTML, CSS, and JavaScript.
 ---
 
-
+This project was collaboratively developed by [Sneha Sikder](https://github.com/snehasikder) and [Shreya Sikder](https://github.com/Shreya-Sikder).
 
 
 
